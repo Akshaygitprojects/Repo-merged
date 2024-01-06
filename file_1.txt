@@ -1,4 +1,6 @@
 
 a=20
-b=20print(a+b)
+b=20
+print(a+b)
 
+print(a-b)
